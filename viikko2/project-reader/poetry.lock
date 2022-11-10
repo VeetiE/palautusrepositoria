@@ -17,7 +17,11 @@ python-versions = ">=3.7"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
+<<<<<<< HEAD
 content-hash = "5077ceba3f15b08a39729a06ffb8c73eeeaae9b9b5a53240cbe9674907b4adb3"
+=======
+content-hash = "d6acd0d7f0c6ccebf7cafcc399f48b1a22baf61b8ce8cd901efdb3c785047ec0"
+>>>>>>> 00a73d2da94e4a393868618ff6065bbe894e3093
 
 [metadata.files]
 toml = [

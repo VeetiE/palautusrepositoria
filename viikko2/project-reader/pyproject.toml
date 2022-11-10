@@ -10,7 +10,11 @@ toml = "^0.10.2"
 tomli = "^2.0.1"
 
 [tool.poetry.dev-dependencies]
+<<<<<<< HEAD
 toml = "^0.10.2"
+=======
+tomli = "^2.0.1"
+>>>>>>> 00a73d2da94e4a393868618ff6065bbe894e3093
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"

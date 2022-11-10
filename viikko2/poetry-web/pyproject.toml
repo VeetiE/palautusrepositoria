@@ -2,7 +2,11 @@
 name = "poetry-web"
 version = "0.1.0"
 description = ""
+<<<<<<< HEAD
 authors = ["Your Name <you@example.com>"]
+=======
+authors = ["Veeti Enckelman <veeti.oliver@gmail.com>"]
+>>>>>>> 00a73d2da94e4a393868618ff6065bbe894e3093
 
 [tool.poetry.dependencies]
 python = "^3.8"
